@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B78DA8B-FDF2-40BA-BF00-D94D71FEF005</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0BF87D458EB3DFD2986B8DBA3DDE5C44E4E305E9</key>
+		<string>https://bitbucket.org/nbergst/ofxgamecameramod.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0BF87D458EB3DFD2986B8DBA3DDE5C44E4E305E9</key>
+		<string>ofxgamecameramod/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/nbergst/ofxgamecameramod.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0BF87D458EB3DFD2986B8DBA3DDE5C44E4E305E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0BF87D458EB3DFD2986B8DBA3DDE5C44E4E305E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxgamecameramod</string>
+		</dict>
+	</array>
+</dict>
+</plist>

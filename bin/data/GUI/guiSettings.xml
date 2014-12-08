@@ -1,0 +1,111 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>Minimize</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>Number coins</Name>
+    <Value>10.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>Size coin</Name>
+    <Value>0.500000000</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>[min-max]</Name>
+    <HighValue>1.799999952</HighValue>
+    <LowValue>0.300000012</LowValue>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Periodic Coin Vibration</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Max Speed</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Manual Rotation</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Manual Motion</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Enable sideways joystick</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2D &amp; 3D</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>2D Only</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>3D Only</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Show Trajectory</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Override Walls</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Override Coins</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>22</Kind>
+    <Name>COM PORT</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>cu.Bluetooth-Incoming-Port</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>tty.Bluetooth-Incoming-Port</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>cu.Bluetooth-Modem</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>tty.Bluetooth-Modem</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>cu.JAMBOXbyJawbone-SPPDev</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>tty.JAMBOXbyJawbone-SPPDev</Name>
+    <Value>0</Value>
+</Widget>

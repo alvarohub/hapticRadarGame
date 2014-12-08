@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxXmlSettings
+ofxgamecameramod
+ofxsvgmod
+ofxUI
