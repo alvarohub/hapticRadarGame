@@ -1,3 +1,5 @@
+// By Alvaro Cassinelli and Niklas Bergstrom 2014
+
 #include "ofMain.h"
 #include "ofApp.h"
 //#include "ofAppGlutWindow.h"
